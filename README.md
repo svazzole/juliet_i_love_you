@@ -1,2 +1,7 @@
-# juliet_i_love_you
-Scripts and utils
+# Juliet I Love You
+
+> Davero. Dico davero. Lo giuro.
+
+Scripts and utils in Python and Bash.
+
+Best.
